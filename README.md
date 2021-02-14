@@ -10,4 +10,4 @@ a 23 y.o. full stack developer
 
 [Twitter](https://www.twitter.com/snwzy)
 
-<img align="Left" alt="reverse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhilipJovanovic&show_icons=true&hide_border=true" />
+<img align="center" alt="reverse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhilipJovanovic&show_icons=true&hide_border=true" />
