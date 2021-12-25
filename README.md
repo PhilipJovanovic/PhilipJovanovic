@@ -1,5 +1,5 @@
 ### Hey, i'm Philip!
-- 23 y.o. full stack developer
+- 24 y.o. full stack developer
 - Currently working on **SolydBot, Scala (Crypto Currency not the language lol) & some side-projects**
 
 <h3 align="left">Socials:</h3>
